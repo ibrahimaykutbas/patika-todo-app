@@ -1,4 +1,4 @@
-# Basket Application
+# To-do App
 [Project](https://todo-app-patika.web.app/)
 ## Built With
 ReactJS
