@@ -17,7 +17,7 @@ ReactJS
 ## Getting Started
 Clone this repository on your local machine.<br/><br/>
 `git clone https://github.com/ibrahimaykutbas/patika-todo-app`<br/><br/>
-`cd northwind-redux`<br/><br/>
+`cd patika-todo-app`<br/><br/>
 Run the following commands into the project folder to install project dependencies.<br/><br/>
 `npm init`<br/><br/>
 `npm install`<br/><br/>
