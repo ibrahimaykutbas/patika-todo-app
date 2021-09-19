@@ -5,9 +5,8 @@ ReactJS
 ## Tools
 - Redux
 - React Router DOM
+- Nano ID
 - Alertifyjs
-- Reactstrap
-- Bootstrap
 ## Features
 - Adding a to-do.
 - Mark a todo as done.
