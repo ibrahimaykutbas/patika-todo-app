@@ -2,9 +2,9 @@
 
 ![ss](https://user-images.githubusercontent.com/80921107/134781487-ecb82676-9f11-40ab-bd29-cf145ce3bf4d.png)
 
-[Project](https://todo-app-patika.web.app/)
+[Proje sayfasına gitmek için buraya tıklayın..](https://todo-app-patika.web.app/)
 
-## Built With
+## Kurulum
 
 ReactJS
 
@@ -15,57 +15,55 @@ ReactJS
 - Nano ID
 - Alertifyjs
 
-## Features
+## Özellikler
 
-- Adding a to-do.
-- Mark a todo as done.
-- Delete selected to-do.
-- Filter as all, active and complete.
-- Delete completed todos.
+- Yapılacaklar ekleme.
+- Bir yapılacakları yapıldı olarak işaretleyin.
+- Seçilen yapılacakları silin.
+- Tamamı, aktif ve tamamlandı olarak filtreleyin.
+- Tamamlanan todoları silin.
 
-## Getting Started
+## Başlangıç
 
-### Installation
-
-Clone this repository on your local machine.
+Bu depoyu yerel makinenizde klonlayın.
 
 ```
 git clone https://github.com/ibrahimaykutbas/patika-todo-app
 ```
 
-### Usage
+### Kullanım
 
-To use after cloning the project:
+Projeyi klonladıktan sonra kullanmak için:
 
 ```
 cd patika-todo-app
 cd .
 ```
 
-Run the following commands into the project folder to install project dependencies.
+Proje bağımlılıklarını yüklemek için proje klasörüne aşağıdaki komutları çalıştırın.
 
 ```
 npm init
 npm install
 ```
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+Bu talimatlar, geliştirme ve test amacıyla yerel makinenizde projenin bir kopyasını hazır ve çalışır hale getirecektir.
 
-## Available Scripts
+## Kullanılabilir Komut Dosyaları
 
-In the project directory, you can run:
+Proje dizininde şunları çalıştırabilirsiniz:
 
 ```
 npm start
 ```
 
-Runs the app in the development mode.
+Uygulamayı geliştirme modunda çalıştırır.
 
 ```
 http://localhost:3000
 ```
 
-## Learn More
-You can learn more in the [Create React App documentation](https://create-react-app.dev/docs/getting-started/).
+## Daha Fazla Bilgi İçin
+Daha fazlasını şuradan öğrenebilirsiniz: [Create React App documentation](https://create-react-app.dev/docs/getting-started/)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+React'i öğrenmek için şuraya göz atın: [React documentation](https://reactjs.org/)
